@@ -1,0 +1,30 @@
+# Visual Studio internal files
+.vs/
+
+# All build output
+out/
+build/
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled binary artifacts
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.dll
+*.exp
+
+# Precompiled headers
+*.ipch
+*.gch
+*.pch
+
+# VS file index / browse database
+*.db
+*.VC.db
+*.VC.opendb
+FileContentIndex/
